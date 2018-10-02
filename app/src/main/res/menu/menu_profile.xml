@@ -12,7 +12,7 @@
         android:title="more"
         android:icon="@drawable/ic_three_dots"
         >
-
+        //More tab
         <menu>
 
 
